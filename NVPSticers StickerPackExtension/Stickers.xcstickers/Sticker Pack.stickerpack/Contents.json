@@ -1,4 +1,12 @@
 {
+  "stickers" : [
+    {
+      "filename" : "color.sticker"
+    },
+    {
+      "filename" : "ButtonSetAlertsWite.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
